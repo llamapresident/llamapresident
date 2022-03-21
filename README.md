@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llamapresident
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Html/Css
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me llamapresident2@gmail.com
 
